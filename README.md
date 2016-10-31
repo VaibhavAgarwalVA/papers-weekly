@@ -2,6 +2,10 @@
 A repository containing all of the papers that I'd be reading under my mentor ![Sanyam Agarwal](https://github.com/sanyam5)'s initiative of 2 papers a week.  However, this is an optimistic estimate, and actual numbers may be high or low depending on the depth of the paper and other academic engagements.
 This is an old version of Readme. Watch out for more inclusions.
 
+*31st October 2016*
+#### Read papers from prominent tech research labs like Microsoft, Adobe, Oracle, IBM, Xerox etc.
+### Microsoft Research = [here](https://www.microsoft.com/en-us/research/)
+
 *22nd April 2015*
 
 1. Mikolov, Tomas, et al. "Efficient estimation of word representations in vector space." arXiv preprint arXiv:1301.3781 (2013). [read()](http://arxiv.org/pdf/1301.3781v3.pdf)
