@@ -3,8 +3,11 @@ A repository containing all of the papers that I'd be reading under my mentor ![
 This is an old version of Readme. Watch out for more inclusions.
 
 *31st October 2016*
-### Read papers from prominent tech research labs like Microsoft, Adobe, Oracle, IBM, Xerox etc.
+### Read papers from prominent tech research labs like Microsoft, Google, Facebook, Adobe, Oracle, IBM, Xerox etc.
 #### Microsoft Research = [here](https://www.microsoft.com/en-us/research/)
+#### Google Research = [here](http://research.google.com/)
+#### FB Research = [here](https://research.facebook.com/)
+
 
 *22nd April 2015*
 
